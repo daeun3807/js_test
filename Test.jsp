@@ -21,7 +21,7 @@
 </style>
 <script type="text/javascript">
 /****
-* TO DO
+* TO DO 웅앵웅
 * 다중파일 업로드
 * 다운로드
 * 확장명 체크
@@ -29,7 +29,7 @@
 * 전송 전에 확인 팝업
 * 프로그래스 바
 ****/
-function fileCheck() {
+function fileCheck() { 
 	//파일 확장자 체크       
     var filePath      = document.fileUpform.fileName.value;
     var idx           = filePath.lastIndexOf(".")+1;  //확장자 제외한 경로+파일명
